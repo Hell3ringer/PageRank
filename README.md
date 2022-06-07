@@ -3,6 +3,7 @@ Finding the rank of the page/website for getting sorted web searches
 
 # 1) PageRank
 google colab link : https://colab.research.google.com/drive/1W4C-0d2ZaX98J7ZJkovMBMUY-eQAq6n0
+PageRank.py
 
 a) Eigen value method   
 b) Power iteration method   
@@ -25,6 +26,7 @@ output = Pagerank score of each page
 # 2) HITS
 Hyperlink-Induced Topic Search
 google colab link : https://colab.research.google.com/drive/1sCmEvZ0FX3vDDDNcv2JSh_u6rUxtTY63
+PageRank_HITS.py
 
 a) Authority score  
 b) Hub score  
