@@ -24,7 +24,7 @@ output = Pagerank score of each page
 
 
 # 2) HITS
-Hyperlink-Induced Topic Search
+Hyperlink-Induced Topic Search      
 google colab link : https://colab.research.google.com/drive/1sCmEvZ0FX3vDDDNcv2JSh_u6rUxtTY63     
 PageRank_HITS.py
 
